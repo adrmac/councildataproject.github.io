@@ -23,4 +23,5 @@ Contributions here should be largely text changes, admin updates, and new deploy
 - `npm install`: Install project dependencies
 - `npm start`: Start a localhost server and watch for changes
 - `npm run build`: Build the production application
-- `npm run test`: Test that at the very least the webpage will render
+- `npm run lint`: Run code linter
+- `npm run format`: Run code formatter
